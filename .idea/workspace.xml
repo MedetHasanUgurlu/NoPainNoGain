@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71360e5e-a5dd-4edd-a2de-205fc6499f54" name="Changes" comment="Balanced Word = &quot;zips&quot; = &quot;zi|ps&quot; = 26+9|16+19 = 35|35 = true">
-      <change afterPath="$PROJECT_DIR$/src/ConsecutiveNumbers.java" afterDir="false" />
+    <list default="true" id="71360e5e-a5dd-4edd-a2de-205fc6499f54" name="Changes" comment="ConsecutiveNumbers &#10;[1, 2, 3, 4, 5] ➞ true&#10;[5, 6, 7, 8, 9, 9] ➞ false">
+      <change afterPath="$PROJECT_DIR$/src/CountLetterInWordSerach2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668075523919</updated>
-      <workItem from="1668075525716" duration="2718000" />
+      <workItem from="1668075525716" duration="5707000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1668075580756</created>
@@ -83,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668078385840</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ConsecutiveNumbers &#10;[1, 2, 3, 4, 5] ➞ true&#10;[5, 6, 7, 8, 9, 9] ➞ false">
+      <created>1668079271364</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668079271364</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +112,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="arrayOfMultiples(7, 5) ➞ [7, 14, 21, 28, 35]" />
     <MESSAGE value="Balanced Word = &quot;zips&quot; = &quot;zi|ps&quot; = 26+9|16+19 = 35|35 = true" />
-    <option name="LAST_COMMIT_MESSAGE" value="Balanced Word = &quot;zips&quot; = &quot;zi|ps&quot; = 26+9|16+19 = 35|35 = true" />
+    <MESSAGE value="ConsecutiveNumbers &#10;[1, 2, 3, 4, 5] ➞ true&#10;[5, 6, 7, 8, 9, 9] ➞ false" />
+    <option name="LAST_COMMIT_MESSAGE" value="ConsecutiveNumbers &#10;[1, 2, 3, 4, 5] ➞ true&#10;[5, 6, 7, 8, 9, 9] ➞ false" />
   </component>
 </project>
