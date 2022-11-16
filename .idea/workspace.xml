@@ -48,7 +48,14 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LargestGap">
+  <component name="RunManager" selected="Application.CountWords">
+    <configuration name="CountWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountWords" />
+      <module name="NoPainNoGain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="NoPainNoGain" />
@@ -70,13 +77,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumbers" />
-      <module name="NoPainNoGain" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringTokenizeEr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringTokenizeEr" />
       <module name="NoPainNoGain" />
@@ -86,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountWords" />
         <item itemvalue="Application.LargestGap" />
         <item itemvalue="Application.StringTokenizeEr" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.NumberOfDigit" />
-        <item itemvalue="Application.PrimeNumbers" />
       </list>
     </recent_temporary>
   </component>
