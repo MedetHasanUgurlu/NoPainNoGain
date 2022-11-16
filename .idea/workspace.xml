@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71360e5e-a5dd-4edd-a2de-205fc6499f54" name="Changes" comment="Anagram">
-      <change afterPath="$PROJECT_DIR$/src/Findinggmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aminusb.java" afterDir="false" />
+    <list default="true" id="71360e5e-a5dd-4edd-a2de-205fc6499f54" name="Changes" comment="Find gmail">
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +46,16 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Findinggmail">
+  <component name="RunManager" selected="Application.PrimeNumbers">
     <configuration name="Findinggmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Findinggmail" />
+      <module name="NoPainNoGain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumbers" />
       <module name="NoPainNoGain" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumbers" />
         <item itemvalue="Application.Findinggmail" />
         <item itemvalue="Application.aminusb" />
       </list>
@@ -82,7 +88,7 @@
       <workItem from="1668100722179" duration="598000" />
       <workItem from="1668589659935" duration="4556000" />
       <workItem from="1668601312515" duration="1166000" />
-      <workItem from="1668617992064" duration="1334000" />
+      <workItem from="1668617992064" duration="3040000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1668075580756</created>
@@ -147,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668596140175</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Find gmail">
+      <created>1668619598073</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668619598073</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +186,7 @@
     <MESSAGE value="DigitSumRoot&#10;digitRoot(123) ➞ 6&#10;digitRoot(999888777L) ➞ 9" />
     <MESSAGE value="Finding max value and Dubliate Chareacters" />
     <MESSAGE value="Anagram" />
-    <option name="LAST_COMMIT_MESSAGE" value="Anagram" />
+    <MESSAGE value="Find gmail" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find gmail" />
   </component>
 </project>
