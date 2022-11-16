@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71360e5e-a5dd-4edd-a2de-205fc6499f54" name="Changes" comment="DigitSumRoot&#10;digitRoot(123) ➞ 6&#10;digitRoot(999888777L) ➞ 9">
-      <change afterPath="$PROJECT_DIR$/src/DuplicateCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindingMaxInput.java" afterDir="false" />
+    <list default="true" id="71360e5e-a5dd-4edd-a2de-205fc6499f54" name="Changes" comment="Finding max value and Dubliate Chareacters">
+      <change afterPath="$PROJECT_DIR$/src/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicateWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
       <updated>1668075523919</updated>
       <workItem from="1668075525716" duration="7409000" />
       <workItem from="1668100722179" duration="598000" />
-      <workItem from="1668589659935" duration="1436000" />
+      <workItem from="1668589659935" duration="3733000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1668075580756</created>
@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668101285075</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Finding max value and Dubliate Chareacters">
+      <created>1668591171131</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668591171131</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +139,7 @@
     <MESSAGE value="ConsecutiveNumbers &#10;[1, 2, 3, 4, 5] ➞ true&#10;[5, 6, 7, 8, 9, 9] ➞ false" />
     <MESSAGE value="CountLetterInWordSerach2D&#10;letterCounter(arrays2D, &quot;H&quot;) ➞ 2" />
     <MESSAGE value="DigitSumRoot&#10;digitRoot(123) ➞ 6&#10;digitRoot(999888777L) ➞ 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="DigitSumRoot&#10;digitRoot(123) ➞ 6&#10;digitRoot(999888777L) ➞ 9" />
+    <MESSAGE value="Finding max value and Dubliate Chareacters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finding max value and Dubliate Chareacters" />
   </component>
 </project>
