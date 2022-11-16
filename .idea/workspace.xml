@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71360e5e-a5dd-4edd-a2de-205fc6499f54" name="Changes" comment="NumberOfDigit">
-      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+    <list default="true" id="71360e5e-a5dd-4edd-a2de-205fc6499f54" name="Changes" comment="Factorial">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestGap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringTokenizeEr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +48,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Factorial">
+  <component name="RunManager" selected="Application.LargestGap">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="NoPainNoGain" />
@@ -53,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Findinggmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Findinggmail" />
+    <configuration name="LargestGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestGap" />
       <module name="NoPainNoGain" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aminusb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aminusb" />
+    <configuration name="StringTokenizeEr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTokenizeEr" />
       <module name="NoPainNoGain" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestGap" />
+        <item itemvalue="Application.StringTokenizeEr" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.NumberOfDigit" />
         <item itemvalue="Application.PrimeNumbers" />
-        <item itemvalue="Application.Findinggmail" />
-        <item itemvalue="Application.aminusb" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +106,7 @@
       <workItem from="1668100722179" duration="598000" />
       <workItem from="1668589659935" duration="4556000" />
       <workItem from="1668601312515" duration="1166000" />
-      <workItem from="1668617992064" duration="3860000" />
+      <workItem from="1668617992064" duration="5987000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1668075580756</created>
@@ -189,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668624216062</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Factorial">
+      <created>1668624757741</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668624757741</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +228,7 @@
     <MESSAGE value="Find gmail" />
     <MESSAGE value="Prime Number" />
     <MESSAGE value="NumberOfDigit" />
-    <option name="LAST_COMMIT_MESSAGE" value="NumberOfDigit" />
+    <MESSAGE value="Factorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Factorial" />
   </component>
 </project>
