@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71360e5e-a5dd-4edd-a2de-205fc6499f54" name="Changes" comment="Finding max value and Dubliate Chareacters">
-      <change afterPath="$PROJECT_DIR$/src/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DuplicateWords.java" afterDir="false" />
+    <list default="true" id="71360e5e-a5dd-4edd-a2de-205fc6499f54" name="Changes" comment="Anagram">
+      <change afterPath="$PROJECT_DIR$/src/Findinggmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringSwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aminusb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +48,28 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.Findinggmail">
+    <configuration name="Findinggmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Findinggmail" />
+      <module name="NoPainNoGain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aminusb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aminusb" />
+      <module name="NoPainNoGain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Findinggmail" />
+        <item itemvalue="Application.aminusb" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +80,9 @@
       <updated>1668075523919</updated>
       <workItem from="1668075525716" duration="7409000" />
       <workItem from="1668100722179" duration="598000" />
-      <workItem from="1668589659935" duration="3733000" />
+      <workItem from="1668589659935" duration="4556000" />
+      <workItem from="1668601312515" duration="1166000" />
+      <workItem from="1668617992064" duration="1334000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1668075580756</created>
@@ -115,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668591171131</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Anagram">
+      <created>1668596140175</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668596140175</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +172,7 @@
     <MESSAGE value="CountLetterInWordSerach2D&#10;letterCounter(arrays2D, &quot;H&quot;) ➞ 2" />
     <MESSAGE value="DigitSumRoot&#10;digitRoot(123) ➞ 6&#10;digitRoot(999888777L) ➞ 9" />
     <MESSAGE value="Finding max value and Dubliate Chareacters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finding max value and Dubliate Chareacters" />
+    <MESSAGE value="Anagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="Anagram" />
   </component>
 </project>
