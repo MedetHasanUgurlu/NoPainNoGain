@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71360e5e-a5dd-4edd-a2de-205fc6499f54" name="Changes" comment="Factorial">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LargestGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringTokenizeEr.java" afterDir="false" />
+    <list default="true" id="71360e5e-a5dd-4edd-a2de-205fc6499f54" name="Changes" comment="Count of words">
+      <change afterPath="$PROJECT_DIR$/src/BinaryGap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplicativePersistence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,16 +47,16 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountWords">
-    <configuration name="CountWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountWords" />
+  <component name="RunManager" selected="Application.BinaryGap">
+    <configuration name="BinaryGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryGap" />
       <module name="NoPainNoGain" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factorial" />
+    <configuration name="CountWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountWords" />
       <module name="NoPainNoGain" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberOfDigit" />
+    <configuration name="MultiplicativePersistence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplicativePersistence" />
       <module name="NoPainNoGain" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryGap" />
+        <item itemvalue="Application.MultiplicativePersistence" />
         <item itemvalue="Application.CountWords" />
         <item itemvalue="Application.LargestGap" />
         <item itemvalue="Application.StringTokenizeEr" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.NumberOfDigit" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +105,10 @@
       <workItem from="1668100722179" duration="598000" />
       <workItem from="1668589659935" duration="4556000" />
       <workItem from="1668601312515" duration="1166000" />
-      <workItem from="1668617992064" duration="5987000" />
+      <workItem from="1668617992064" duration="8362000" />
+      <workItem from="1668681183481" duration="19000" />
+      <workItem from="1668747788070" duration="16000" />
+      <workItem from="1668784583820" duration="4638000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1668075580756</created>
@@ -199,7 +201,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668624757741</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Largest in Array">
+      <created>1668626775317</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1668626775317</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Largest in Array">
+      <created>1668626815269</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1668626815269</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Count of words">
+      <created>1668627011601</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668627011601</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +252,8 @@
     <MESSAGE value="Prime Number" />
     <MESSAGE value="NumberOfDigit" />
     <MESSAGE value="Factorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Factorial" />
+    <MESSAGE value="Largest in Array" />
+    <MESSAGE value="Count of words" />
+    <option name="LAST_COMMIT_MESSAGE" value="Count of words" />
   </component>
 </project>
