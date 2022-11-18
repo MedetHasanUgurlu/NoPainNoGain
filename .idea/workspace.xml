@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71360e5e-a5dd-4edd-a2de-205fc6499f54" name="Changes" comment="Rotate Array">
-      <change afterPath="$PROJECT_DIR$/src/aaaa.java" afterDir="false" />
+    <list default="true" id="71360e5e-a5dd-4edd-a2de-205fc6499f54" name="Changes" comment="{9,3,9,3,9,7,9} --&gt; result 7&#10;OddOccurrencesInArray">
+      <change afterPath="$PROJECT_DIR$/src/AAAA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BBB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,23 +48,23 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OddOccurrencesInArray">
-    <configuration name="CountWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountWords" />
+  <component name="RunManager" selected="Application.Fibonacci">
+    <configuration name="AAAA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AAAA" />
       <module name="NoPainNoGain" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LargestGap" />
+    <configuration name="BBB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BBB" />
       <module name="NoPainNoGain" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplicativePersistence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiplicativePersistence" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <module name="NoPainNoGain" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.BBB" />
+        <item itemvalue="Application.AAAA" />
         <item itemvalue="Application.OddOccurrencesInArray" />
         <item itemvalue="Application.RotateArray" />
-        <item itemvalue="Application.MultiplicativePersistence" />
-        <item itemvalue="Application.CountWords" />
-        <item itemvalue="Application.LargestGap" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +109,7 @@
       <workItem from="1668617992064" duration="8362000" />
       <workItem from="1668681183481" duration="19000" />
       <workItem from="1668747788070" duration="16000" />
-      <workItem from="1668784583820" duration="7400000" />
+      <workItem from="1668784583820" duration="10363000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1668075580756</created>
@@ -228,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668790672738</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="{9,3,9,3,9,7,9} --&gt; result 7&#10;OddOccurrencesInArray">
+      <created>1668795663639</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1668795663639</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +270,7 @@
     <MESSAGE value="Largest in Array" />
     <MESSAGE value="Count of words" />
     <MESSAGE value="Rotate Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rotate Array" />
+    <MESSAGE value="{9,3,9,3,9,7,9} --&gt; result 7&#10;OddOccurrencesInArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="{9,3,9,3,9,7,9} --&gt; result 7&#10;OddOccurrencesInArray" />
   </component>
 </project>
