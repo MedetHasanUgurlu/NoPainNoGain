@@ -1,12 +1,12 @@
-import java.awt.*;
+
 import java.util.ArrayList;
-import java.util.Arrays;
+
 
 public class PrimeNumbers {
 
 
     public static void main(String[] args) {
-        System.out.println(isPrime(13));
+
         findPrime(16).stream().forEach(System.out::println);
 
 

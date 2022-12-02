@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71360e5e-a5dd-4edd-a2de-205fc6499f54" name="Changes" comment="Fibonacci">
-      <change afterPath="$PROJECT_DIR$/src/Java101/BreakContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java101/Compate2Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java101/Fact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java101/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java101/SwapWithout3RD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OptionalL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
+    <list default="true" id="71360e5e-a5dd-4edd-a2de-205fc6499f54" name="Changes" comment="Break, ReverseNumber,SwapWithout3RD">
+      <change afterPath="$PROJECT_DIR$/src/Java101/Alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java101/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java101/FindDoubleCharacterInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java101/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java101/ReferenceorOtherType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java101/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java101/SubStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java101/WhileBreakContinue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +55,9 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BreakContinue">
-    <configuration name="BreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java101.BreakContinue" />
+  <component name="RunManager" selected="Application.ReverseString">
+    <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java101.Armstrong" />
       <module name="NoPainNoGain" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Compate2Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java101.Compate2Strings" />
+    <configuration name="Polindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java101.Polindrome" />
       <module name="NoPainNoGain" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java101.Fact" />
+    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java101.Prime" />
       <module name="NoPainNoGain" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java101.ReverseNumber" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java101.ReverseString" />
       <module name="NoPainNoGain" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapWithout3RD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java101.SwapWithout3RD" />
+    <configuration name="SubStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java101.SubStrings" />
       <module name="NoPainNoGain" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BreakContinue" />
-        <item itemvalue="Application.ReverseNumber" />
-        <item itemvalue="Application.Compate2Strings" />
-        <item itemvalue="Application.Fact" />
-        <item itemvalue="Application.SwapWithout3RD" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.Polindrome" />
+        <item itemvalue="Application.SubStrings" />
+        <item itemvalue="Application.Armstrong" />
+        <item itemvalue="Application.Prime" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +149,13 @@
       <workItem from="1668784583820" duration="11027000" />
       <workItem from="1668917301912" duration="1231000" />
       <workItem from="1669020326572" duration="564000" />
-      <workItem from="1669859901397" duration="3171000" />
+      <workItem from="1669859901397" duration="3409000" />
+      <workItem from="1669865548409" duration="14000" />
+      <workItem from="1669878692022" duration="2354000" />
+      <workItem from="1669885668603" duration="60000" />
+      <workItem from="1669954110264" duration="13851000" />
+      <workItem from="1669990368517" duration="4723000" />
+      <workItem from="1670009597084" duration="1371000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1668075580756</created>
@@ -282,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668798804527</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Break, ReverseNumber,SwapWithout3RD">
+      <created>1669863301580</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1669863301580</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,6 +332,7 @@
     <MESSAGE value="Rotate Array" />
     <MESSAGE value="{9,3,9,3,9,7,9} --&gt; result 7&#10;OddOccurrencesInArray" />
     <MESSAGE value="Fibonacci" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci" />
+    <MESSAGE value="Break, ReverseNumber,SwapWithout3RD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Break, ReverseNumber,SwapWithout3RD" />
   </component>
 </project>
