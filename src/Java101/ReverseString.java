@@ -2,7 +2,7 @@ package Java101;
 
 import java.util.*;
 
-public class ReverseString {
+public class ReverseString {/*
     public static void main(String[] args) {
         Map<Integer,Integer> map = new HashMap<>();
         map.
@@ -24,5 +24,5 @@ public class ReverseString {
     }
 
 
-
+*/
 }

@@ -12,8 +12,37 @@ public class DigitSumRoot {
 //		digitRoot(1238763636555555555L) ➞ 9
 //		Notes
 //		Recursion is allowed.
-        System.out.println(digitSumRoot(1238763636555555555L));
+        System.out.println(digitSumRoot(999888777L));
     }
+    public static int digitSumRoot2(int n){
+        int result =0;
+        int length= String.valueOf(n).length();
+
+
+            for(int i=0;i<length;i++){
+                result += n%10;
+                n/=10;
+            }
+            if(result>10){
+                digitSumRoot2(result);
+            }
+
+
+        return result;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
     static int digitSumRoot(Long x){
         int len = String.valueOf(x).length();
         int sum = 0;

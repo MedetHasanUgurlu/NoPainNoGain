@@ -3,7 +3,16 @@ package Java101;
 public class Fact {
     public static void main(String[] args) {
 
-        System.out.println(fact(6));
+        System.out.println(fact2(6));
+    }
+
+    public static int fact2(int n){
+        int result = 1;
+        for(int i= 1;i<=n;i++){
+            result *=i;
+
+        }
+        return result;
     }
 
     public static int fact(int i){

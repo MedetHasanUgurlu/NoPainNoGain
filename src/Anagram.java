@@ -1,9 +1,45 @@
 import java.util.HashMap;
 import java.util.Map;
+import java.util.List;
+import java.util.Map;
+import java.util.HashMap;
 
 public class Anagram {
     public static void main(String[] args) {
-        System.out.println(isAnagram("bbbb","aaaa"));
+        System.out.println(isAnagram2("mala","lama"));
+    }
+
+
+
+
+    public static boolean isAnagram2(String s1,String s2){
+        char[] c1 = s1.toCharArray();
+        char[] c2 = s2.toCharArray();
+
+        Map<Character,Integer> map1= new HashMap<>();
+        Map<Character,Integer> map2= new HashMap<>();
+
+        for(char c: c1){
+            if(map1.containsKey(c)){
+                map1.put(c,map1.get(c)+1);
+            }else{
+                map1.put(c,1);
+            }
+        }
+
+        for(char c: c2){
+            if(map2.containsKey(c)){
+                map2.put(c,map2.get(c)+1);
+            }else{
+                map2.put(c,1);
+            }
+        }
+
+        if(map1.equals(map2)){
+            return true;
+        }
+        return false;
+
     }
 
     public static boolean isAnagram(String s1, String s2){

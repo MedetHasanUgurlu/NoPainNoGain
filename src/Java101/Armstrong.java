@@ -2,9 +2,22 @@ package Java101;
 
 public class Armstrong {
     public static void main(String[] args) {
-        System.out.println(isArmstrong(153));
-        System.out.println(5^2);
+        System.out.println(isArmstrong2(152));
 
+
+    }
+
+    public static boolean isArmstrong2(int n){
+        int count = 0;
+        String s = String.valueOf(n);
+        int len = s.length();
+        int temp = n;
+        for(int i= 0;i<len;i++){
+            count += Math.pow(temp%10,len);
+            temp /=10;
+        }
+
+        return count == n;
     }
     public static boolean isArmstrong(int n){
 
